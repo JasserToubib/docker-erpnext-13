@@ -3,8 +3,8 @@ FROM debian:10.2
 ###############################################
 # ARG
 ###############################################
-ARG adminPass=Salut300pages
-ARG mysqlPass=Salut300pages
+ARG adminPass=SalutYou123
+ARG mysqlPass=SalutYou123
 ARG pythonVersion=python3
 ARG appBranch=version-13
 
